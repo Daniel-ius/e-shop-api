@@ -32,3 +32,6 @@
 .docker/nginx/ssl/*.key
 
 .idea
+###> phpstan/phpstan ###
+phpstan.neon
+###< phpstan/phpstan ###
